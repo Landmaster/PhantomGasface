@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "mekanism:alloy_infused"
+    },
+    "I": {
+      "item": "actuallyadditions:phantom_itemface"
+    }
+  },
+  "pattern": [
+    "BIB"
+  ],
+  "result": {
+    "count": 1,
+    "id": "phantomgasface:gas_phantom"
+  }
+}
